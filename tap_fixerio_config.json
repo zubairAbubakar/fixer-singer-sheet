@@ -1,0 +1,6 @@
+{
+    "base": "EUR",
+    "start_date": "2021-01-01",
+    "access_key": "c31ddad1653da9f5a5fe1160598f4fa9",
+    "symbols": ["USD","EUR","GBP","NGN"]
+}
